@@ -1,9 +1,0 @@
-object Do{
-	def main(args:Array[String]){
-	do{
-	var a=1
-	    println("Vaue of a"+a)
-	}
-	while(a<10)
-	}
-}
